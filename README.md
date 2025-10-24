@@ -9,4 +9,6 @@ kalimat2 = "saya ibu Budi"
 
 kalimat3 = "saya adik Budi"
 
+Kalimat4 = "saya fans Budi"
+
 Ketiga variabel tersebut digabungkan dalam satu pernyataan System.out.println().
